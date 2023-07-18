@@ -274,6 +274,21 @@ p.color2 {
   height: 250px;
 }
 
+.sidenavcakep {
+  height: auto;
+  background-color: #1cc88a;
+}
+
+a.isActive,
+a.router-link-active,
+a.i {
+  font-weight: 500;
+  color: white;
+  background-color: #023c40;
+  opacity: 0.8;
+}
+
+
 @media screen and (max-width: 992px) {
   .login .container .login-box .left-container img,
   .login .container .register-box .left-container img,
